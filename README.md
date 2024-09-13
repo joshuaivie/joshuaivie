@@ -1,11 +1,8 @@
 ### Hello there, 👋 
 
-You're welcome to my github profile. My name is Joshua and I'm a Full-Stack software engineer.
+You're welcome to my github profile. My name is Joshua and I'm a senior software engineer.
 
-- 👯 I’m looking to collaborate on Nodejs, React, Ruby on Rails Project and Java projects.
-- 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/joshuaivie_), [Linkedin](https://www.linkedin.com/in/joshuaivie/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've worked as a UI/UX designer, a Product Manager and a Full-Stack developer. I'd be an excellent addition to your team!
 
 
